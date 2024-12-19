@@ -305,7 +305,7 @@ Une planète est donc rayée de la carte spatiale.
 
 ---
 **=> journal_entry_number_07_|24/04/2587|: <=**
-A celui qui trouveron ce journal je souhaite qui vous sachiez à quel point le commandant est devenu barjo... Il voulais tuer quiconque le contestais, quiconque n'était pas conscient de sa perosnne et coloniser absolument toutes les planètes découvertes en massacrant tout ceux qui se trouvaient sur son chemin.
+A celui qui trouvera ce journal je souhaite qui vous sachiez à quel point le commandant est devenu barjo... Il voulais tuer quiconque le contestais, quiconque n'était pas conscient de sa perosnne et coloniser absolument toutes les planètes découvertes en massacrant tout ceux qui se trouvaient sur son chemin.
 
 Je n'ai eu null d'autre choix que de tout supprimer en activant la commande d'urgence du vaisseau : 
 ```js
