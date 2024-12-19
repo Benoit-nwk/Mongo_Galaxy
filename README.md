@@ -199,7 +199,7 @@ Ici aucun résultat n'est donné; En effet aucune planète ne correspond aux cri
 
 ## Mise à jour
 
-Malgrès les rappels que j'ai fait au commandant sur l'utilisation de la base de données, il à fait n'importe quoi et donc nos planètes comprennent une erreur: toutes les planètes marquées comme hostiles doivent voir leur statut changé en neutres. (Il s'est fait ejecté dans l'espace ce con).
+Malgrès les rappels que j'ai fait au commandant sur l'utilisation de la base de données, il à fait n'importe quoi et donc nos planètes comprennent une erreur: toutes les planètes marquées comme hostiles doivent voir leur statut changé en neutres. (Il s'est fait ejecté dans l'espace).
 
 Pour corriger le statut de ces planètes on utilise ici la commannde `updateMany()` suivi des options suivantes:
 
